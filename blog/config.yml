@@ -5,10 +5,10 @@ site:
     theme: theme
     lang: zh
     url: "http://proudlily.github.io/0.0/"
-    comment: username
+    comment: annqlm
     logo: "-/images/avatar.jpg"
-    # link: "{category}/{year}/{month}/{day}/{title}.html"
-    # root: "/blog"
+    root: "http://proudlily.github.io/0.0"
+      # link: "{category}/{year}/{month}/{day}/{title}.html"
 
 authors:                                                                                                                                                                                                                                    
     me:
